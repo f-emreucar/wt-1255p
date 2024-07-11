@@ -1,0 +1,57 @@
+.bg-color{
+    background-color: rgb(44,62,80) ;
+}
+
+#headerh{
+    padding-top: 1.5rem;
+    padding-bottom:1.5rem;
+}
+
+.myheader{
+
+    padding-top: calc(6rem + 104px);
+    padding-bottom: 6rem;
+    background-color: rgb(26,188,156);
+}
+.p-foto{
+  width: 15rem;
+}
+
+.h2baslık{
+    font-size: 3rem;
+    line-height: 2.5rem;
+}
+
+.Portfoy{
+    padding: 6rem 0;
+}
+
+.about-bgr{
+    background-color: rgb(26,188,156);
+    padding: 6rem 0;
+}
+
+.aboutbaslık{
+font-size: 3rem;
+line-height: 2.5rem;
+}
+
+.met01 {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.footer{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #2c3e50;
+    color: #fff;
+}
+
+.link{
+   color: rgb(26,188,156);
+}
+.copyright{
+background-color: #1a252f;
+}
+
